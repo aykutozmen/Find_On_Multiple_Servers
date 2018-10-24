@@ -1,0 +1,2 @@
+# Find_On_Multiple_Servers
+Uygulama parametre olarak verdiğiniz bir string değeri case sensitive olmaksızın tüm sunucuların kök dizinlerinden başlayarak arar ve sonuçlarını ekrana veya Find_For_Me.log isimli dosyaya basar. Dilenirse script içindeki Server_List değişkenine sunucu eklenebilir veya bu listeden sunucu çıkartılabilir. Sunucu listesine root@192.168.1.100 veya root@server şeklinde kayıtlar da eklenebilir. Sadece şifresiz ssh yapılabilen sunucular için kullanılabilir.
